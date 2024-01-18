@@ -1,0 +1,14 @@
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/event/OrderPlacedEvent.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/OrderServiceApplication.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/repository/OrderRepository.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/model/OrderLineItems.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/dto/InventoryResponse.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/dto/OrderRequest.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/service/OrderService.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/controller/CircuitBreaker.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/controller/TimeLimiter.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/controller/Retry.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/dto/OrderLineItemsDto.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/model/Order.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/controller/OrderContoller.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/order-service/src/main/java/com/ecommerce/orderservice/config/WebClientConfig.java

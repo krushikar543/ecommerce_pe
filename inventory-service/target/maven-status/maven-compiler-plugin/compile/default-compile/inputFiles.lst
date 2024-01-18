@@ -1,0 +1,6 @@
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/inventory-service/src/main/java/com/ecommerce/inventoryservice/controller/InventoryController.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/inventory-service/src/main/java/com/ecommerce/inventoryservice/InventoryServiceApplication.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/inventory-service/src/main/java/com/ecommerce/inventoryservice/dto/InventoryResponse.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/inventory-service/src/main/java/com/ecommerce/inventoryservice/repository/InventoryRepository.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/inventory-service/src/main/java/com/ecommerce/inventoryservice/service/InventoryService.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/inventory-service/src/main/java/com/ecommerce/inventoryservice/model/Inventory.java

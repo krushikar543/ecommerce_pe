@@ -1,0 +1,7 @@
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/dto/ProductRequest.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/dto/ProductResponse.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/controller/ProductController.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/repository/ProductRepository.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/model/Product.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/service/ProductService.java
+/home/krushikar/Krushikar/Courses/sem_8/spring boot project/ecommerce/product-service/src/main/java/com/ecommerce/productservice/ProductServiceApplication.java
